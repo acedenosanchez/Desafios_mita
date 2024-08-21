@@ -75,5 +75,4 @@ mostrar_matriz(matriz)
 calcular_promedio_materias(matriz)
 calcular_promedio_alumno(matriz)
 
-for m in matriz:
-    print(m)
+
